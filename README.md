@@ -8,5 +8,4 @@ Add the following in your `.pre-commit-config.yaml`:
   rev: "master"
   hooks:
     - id: flutter-analyze
-      args: [lib/*]
 ```
